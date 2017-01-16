@@ -1,2 +1,4 @@
 # Vtiger-6.X-lingua-ITA
-# Test matteo
+# Traduzione in lingua Italiana di Vtiger
+
+## info@estefancivera.net www.estefancivera.net 
