@@ -33,6 +33,11 @@ $languageStrings = array(
 	'LBL_TRANSFER_ROLES_TO_PROFILE' => 'Trasferisci Ruolo al Profilo'   , // TODO: Review
 	'LBL_PROFILES'                 => 'Profili'                    , // TODO: Review
 	'LBL_CHOOSE_PROFILES'          => 'Scegli Profili'             , // TODO: Review
+	
+	'LBL_VIEW_ALL' => 'Visualizza tutti',
+	'LBL_VIEW_ALL_DESC' => 'Abilita massivamente la possibilità di permettere la visualizzazione dei records',
+	'LBL_EDIT_ALL' => 'Modifica tutti',
+	'LBL_EDIT_ALL_DESC' => 'Abilita massivamente la possibilità di permettere la modifica dei records',
 );
 $jsLanguageStrings = array(
 	'JS_RECORD_DELETED_SUCCESSFULLY' => 'Profilo cancellato con successo. ', // TODO: Review

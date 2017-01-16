@@ -27,6 +27,11 @@ $languageStrings = array(
 	'SINGLE_Groups'                => 'Gruppo'                       , // TODO: Review
 	'SINGLE_Roles'                 => 'Ruolo'                        , // TODO: Review
 	'SINGLE_RoleAndSubordinates'   => 'Ruoli e Subordinati'          , // TODO: Review
+	
+	'Public: Read Only' =>'Pubblico: Sola lettura',
+	'Public: Read, Create/Edit' => 'Pubblico: Lettura Creazione e modifica', 
+	'Public: Read, Create/Edit, Delete' => 'Pubblico: Lettura creazione, modifica e cancellazione',
+	'Private' =>'Privato',
 );
 $jsLanguageStrings = array(
 	'JS_CUSTOM_RULE_SAVED_SUCCESSFULLY' => 'Regola di Condivisione personalizzata salvata con successo', // TODO: Review

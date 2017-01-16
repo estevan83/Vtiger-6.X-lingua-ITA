@@ -18,6 +18,7 @@ $languageStrings = array(
 	'LBL_ROLEANDSUBORDINATE'       => 'Ruoli e subordinati'         ,
 	'RoleAndSubordinates'          => 'Ruoli e subordinati'         , 
 	'LBL_DUPLICATES_EXIST' 	       => 'Nome gruppo già esiste'	,
+	'ROLES' => 'Ruoli',
 );
 $jsLanguageStrings = array(
 	'JS_PLEASE_SELECT_ATLEAST_ONE_MEMBER_FOR_A_GROUP' => 'Scegli almeno un utente per il gruppo',
